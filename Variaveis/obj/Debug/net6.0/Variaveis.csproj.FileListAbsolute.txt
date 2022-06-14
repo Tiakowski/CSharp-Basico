@@ -1,0 +1,15 @@
+C:\Users\tiago\Desktop\CSharp\Variaveis\bin\Debug\net6.0\Variaveis.exe
+C:\Users\tiago\Desktop\CSharp\Variaveis\bin\Debug\net6.0\Variaveis.deps.json
+C:\Users\tiago\Desktop\CSharp\Variaveis\bin\Debug\net6.0\Variaveis.runtimeconfig.json
+C:\Users\tiago\Desktop\CSharp\Variaveis\bin\Debug\net6.0\Variaveis.dll
+C:\Users\tiago\Desktop\CSharp\Variaveis\bin\Debug\net6.0\Variaveis.pdb
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\Variaveis.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\Variaveis.AssemblyInfo.cs
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\Variaveis.dll
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\refint\Variaveis.dll
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\Variaveis.pdb
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\Variaveis.genruntimeconfig.cache
+C:\Users\tiago\Desktop\CSharp\Variaveis\obj\Debug\net6.0\ref\Variaveis.dll
