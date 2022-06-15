@@ -1,0 +1,15 @@
+C:\Users\tiago\Desktop\CSharp\Laços\bin\Debug\net6.0\Laços.exe
+C:\Users\tiago\Desktop\CSharp\Laços\bin\Debug\net6.0\Laços.deps.json
+C:\Users\tiago\Desktop\CSharp\Laços\bin\Debug\net6.0\Laços.runtimeconfig.json
+C:\Users\tiago\Desktop\CSharp\Laços\bin\Debug\net6.0\Laços.dll
+C:\Users\tiago\Desktop\CSharp\Laços\bin\Debug\net6.0\Laços.pdb
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\Laços.csproj.AssemblyReference.cache
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\Laços.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\Laços.AssemblyInfoInputs.cache
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\Laços.AssemblyInfo.cs
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\Laços.csproj.CoreCompileInputs.cache
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\Laços.dll
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\refint\Laços.dll
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\Laços.pdb
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\Laços.genruntimeconfig.cache
+C:\Users\tiago\Desktop\CSharp\Laços\obj\Debug\net6.0\ref\Laços.dll
